@@ -1,3 +1,0 @@
-﻿  25.01.cpp
-C:\Users\LENOVO\source\repos\25.01\25.01\25.01.cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  25.01.vcxproj -> C:\Users\LENOVO\source\repos\25.01\x64\Debug\25.01.exe
